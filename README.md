@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-<a rel="me" href="https://mastodon.online/@zachsanford"></a>
+<a rel="me" href="https://mastodon.online/@zachsanford">Mastodon Verification Link</a>
 
 <!--
 **zachsanford/zachsanford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
