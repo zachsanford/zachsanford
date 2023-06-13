@@ -2,6 +2,8 @@
 
 Welcome to my GitHub!
 
+Feel free to fork a project and start working on it. If you want to reach out to me check out my socials. Also for the latest, check out my [blog](https://www.zachsanford.com/).
+
 <a rel="me" href="https://mastodon.online/@zachsanford">Mastodon Verification Link</a>
 
 <!--
